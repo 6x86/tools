@@ -1,4 +1,4 @@
-List heavily based on this from the great **[pwndefend](https://www.pwndefend.com/2020/07/22/learn-all-the-things)**\
+List heavily based on this from the great **[pwndefend](https://www.pwndefend.com/2020/07/22/learn-all-the-things)**.\
 Just added some more detail and *(maybe)* useful links for the tools as some were unfamiliar to me.
 
 # Open Source Intelligence Gathering Tools
