@@ -1,9 +1,10 @@
-List heavily based on this from the great guys at **pwndefend** - https://www.pwndefend.com/2020/07/22/learn-all-the-things/ \
-Just added some more detail and (maybe) useful links for the tools as some were unfamiliar to me.
+List heavily based on this from the great **[pwndefend](https://www.pwndefend.com/2020/07/22/learn-all-the-things)**\
+Just added some more detail and *(maybe)* useful links for the tools as some were unfamiliar to me.
 
 # Open Source Intelligence Gathering Tools
 
-**General read** - https://en.wikipedia.org/wiki/Open-source_intelligence
+**General read**\
+https://en.wikipedia.org/wiki/Open-source_intelligence
 
 **Whois**\
 Query details of domain name/IP ownership \
